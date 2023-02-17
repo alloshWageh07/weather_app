@@ -32,7 +32,7 @@ class _HomePageState extends State<HomePage> {
               },
               icon: Icon(Icons.search))
         ],
-        title: Text('Weather App'),
+        title: Text('mohamed wageh'),
       ),
       body: weatherData == null
           ? Center(
